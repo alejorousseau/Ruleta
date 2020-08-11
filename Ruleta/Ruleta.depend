@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1597186691 source:c:\users\extcos\desktop\ruleta\ruleta\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
